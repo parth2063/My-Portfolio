@@ -17,7 +17,7 @@ const educationData = [
   {
     id: 2,
     degree: "High School (+2) in Science",
-    institution: "Kathmandu Model School",
+    institution: "Prasadi Academy Lalitpur, Nepal",
     period: "2078–2080 BS  ·  2020–2023 AD",
     status: "Completed",
     icon: "📐",

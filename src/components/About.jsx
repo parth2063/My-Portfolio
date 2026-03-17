@@ -45,7 +45,7 @@ const About = () => {
           </h3>
 
           <p className="text-gray-400 leading-8 mb-6">
-            I am a passionate <span className="text-cyan-400 font-semibold">Full Stack Developer</span> 
+            I am a passionate <span className="text-cyan-400 font-semibold">Web Developer</span> 
             who loves building scalable web applications and creating 
             clean, modern user interfaces. I specialize in React, Django, 
             and modern web technologies.

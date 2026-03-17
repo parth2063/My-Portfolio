@@ -29,7 +29,7 @@ export const education = [
   {
     id:2,
     degree: "High School(+2) in Science",
-    institution: "Kathmandu Model School",
+    institution: "Prasadi Academy Lalitpur, Nepal",
     period: "2078-2080 BS (2020-2023 AD)",
     highlights: [
       "Science Stream with Mathematics and Physics focus",
@@ -50,42 +50,34 @@ export const education = [
 ];
 
 export const projects = [
-  {
-    id: 1,
-    title: "Task Management App",
-    description: "A collaborative task management application with real-time updates and team workspace features. Built with React and Node.js.",
-    image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800&h=500&fit=crop",
-    tags: ["React", "Node.js", "MongoDB", "Socket.io"],
-    demoUrl: "#",
-    githubUrl: "#"
+ {
+    title: "Portfolio Website",
+    description: "Personal portfolio built using React and Tailwind CSS.",
+    link: "#",
+    image: "https://images.unsplash.com/photo-1547658719-da2b51169166?w=600&q=80&auto=format&fit=crop",
+    tags: ["React", "Tailwind"],
   },
   {
-    id: 2,
-    title: "Weather Forecast Dashboard",
-    description: "Interactive weather dashboard displaying real-time weather data with beautiful visualizations and location-based forecasts.",
-    image: "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=800&h=500&fit=crop",
-    tags: ["React", "API Integration", "Chart.js", "Tailwind CSS"],
-    demoUrl: "#",
-    githubUrl: "#"
+    title: "IPL_2025_Player_Analysis",
+    description: "Data analysis of IPL 2025 players using Python and Pandas.",
+    link: "https://github.com/parth2063/IPL_2025_Player_Analysis",
+    image: "https://images.unsplash.com/photo-1624526267942-ab0ff8a3e972?w=600&q=80&auto=format&fit=crop",
+    tags: ["Python", "Pandas"],
   },
   {
-    id: 3,
-    title: "E-Learning Platform",
-    description: "Online learning platform featuring course management, video streaming, and progress tracking for students and instructors.",
-    image: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=800&h=500&fit=crop",
-    tags: ["Next.js", "PostgreSQL", "AWS S3", "Stripe"],
-    demoUrl: "#",
-    githubUrl: "#"
+    title: "CricketScore-System",
+    description: "Real-time cricket score tracking system built with C++.",
+    link: "https://github.com/parth2063/CricketScore-System",
+    image: "https://images.unsplash.com/photo-1531415074968-036ba1b575da?w=600&q=80&auto=format&fit=crop",
+    tags: ["C++", "Real-time"],
   },
   {
-    id: 4,
-    title: "AI Chatbot Assistant",
-    description: "Intelligent chatbot powered by natural language processing, capable of answering questions and providing personalized recommendations.",
-    image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=500&fit=crop",
-    tags: ["Python", "OpenAI API", "FastAPI", "React"],
-    demoUrl: "#",
-    githubUrl: "#"
-  }
+    title: "Bank-Management-System",
+    description: "A comprehensive bank management system built with C.",
+    link: "https://github.com/parth2063/Bank-Management-System",
+    image: "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=600&q=80&auto=format&fit=crop",
+    tags: ["C", "System Design"],
+  },
 ];
 
 export const skills = {

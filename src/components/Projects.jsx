@@ -4,7 +4,7 @@ const projectsData = [
   {
     title: "Portfolio Website",
     description: "Personal portfolio built using React and Tailwind CSS.",
-    link: "#",
+    link: "https://github.com/parth2063/My-Portfolio",
     image: "https://images.unsplash.com/photo-1547658719-da2b51169166?w=600&q=80&auto=format&fit=crop",
     tags: ["React", "Tailwind"],
   },

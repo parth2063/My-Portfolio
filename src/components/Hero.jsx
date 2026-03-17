@@ -212,10 +212,10 @@ const Hero = () => {
               fontFamily: "'DM Mono', 'Courier New', monospace",
               letterSpacing: "0.05em", minHeight: "2.5rem",
             }}>
-              <span className="text-gray-500">{"<"}</span>
+              
               <span className="text-cyan-300">{text}</span>
-              <span className="text-cyan-400" style={{ opacity: showCursor ? 1 : 0 }}>|</span>
-              <span className="text-gray-500">{" />"}</span>
+
+              
             </h3>
           </div>
 
